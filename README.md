@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://satya-prakashan.github.io](https://satya-prakashan.github.io)
 
-- 📝 I regularly write articles on [www.Spyronation.com](www.Spyronation.com)
+- 📝 I regularly write articles on [www.Spyronation.com](https://www.spyronation.com/)
 
 - 💬 Ask me about **Java, C,C++**
 
