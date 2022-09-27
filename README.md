@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Satya Prakash</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satya-prakashan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="satya-prakashan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saty-a&label=Views&color=blue&style=plastic&style=for-the-badge" alt="saty-a" /> </p>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
@@ -26,28 +26,28 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=satya-prakashan&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=saty-a&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satya-prakashan&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saty-a&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=satya-prakashan&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=satya-prakashan&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saty-a&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saty-a&theme=vue" />
 </p>
 
 ## ✍️Top Lang Used
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satya-prakashan&show_icons=true&locale=en&layout=compact" alt="satya-prakashan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saty-a&show_icons=true&locale=en&layout=compact" alt="saty-a" /></p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=satya-prakashan&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=saty-a&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sp) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/satya) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/satya) 
