@@ -23,10 +23,10 @@
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=saty-a&theme=minimal"/>
-</p>
+</p> -->
 
 ## 💳 Github Profile Summary Card
 <p align="center">
@@ -42,15 +42,11 @@
 ## ✍️Top Lang Used
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saty-a&show_icons=true&locale=en&layout=compact" alt="saty-a" /></p>
 
-## ✍️Random Dev Quote
+### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saty-a&icon=0&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sp) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/satya) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/satya) 
-  
 
 <div align="center">
 
